@@ -55,4 +55,4 @@
 [![hrms6.png](https://i.postimg.cc/7PMXMhWm/hrms6.png)](https://postimg.cc/14XpymPq)
 
 ## API Screenshot
-<img src="https://i.postimg.cc/yxvmqgqK/hrms-api.png" style="width: 100%" />
+<img src="https://iili.io/2iFddmv.png" style="width: 100%" />
